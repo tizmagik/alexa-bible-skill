@@ -1,6 +1,6 @@
 {
   "name": "AlexaBibleSkill",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "An Alexa skill for the Amazon Echo.",
   "author": "Jeremy Gayed (https://github.com/tizmagik)",
   "main": "build/index.js",
