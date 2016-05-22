@@ -4,6 +4,10 @@
   "description": "An Alexa skill for the Amazon Echo.",
   "author": "Jeremy Gayed (https://github.com/tizmagik)",
   "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tizmagik/alexa-bible-skill.git"
+  },
   "scripts": {
     "lint": "eslint src/**/*.js test/**/*.js",
     "build": "npm-run-all --parallel build:skill build:utterances",
